@@ -36,5 +36,4 @@ I'm Furqan, a Data Scientist and XR Developer passionate about leveraging machin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a portrait photographer. [Instagram: shotsbyfurqan](https://www.instagram.com/shotsbyfurqan)
 - 🌍 Portfolio: [furqaanarshad.wixsite.com/furqan](https://furqaanarshad.wixsite.com/furqan)
-
-![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=furqan1pk&date_format=M%20j%5B%2C%20Y%5D)
+  
