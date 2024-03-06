@@ -1,40 +1,37 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furqan1pk&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=furqan1pk&label=Profile%20views&color=0e75b6&style=flat)
 
-I am Furqan.
+I'm Furqan, a passionate and dedicated data scientist with a focus on machine learning and AI technologies to drive innovative solutions in healthcare and brain-machine interface research. With a Master's degree in Computer Science from the University of California Davis, I've honed my skills in predictive modeling, data analysis, and developing algorithms that enhance decision-making processes.
 
-<!-- - 👯 I’m looking to collaborate on ML based projects -->
+#### What I'm Working On
+
+- 🔭 Advancing brain-machine interface technologies through innovative research and development.
+- 🌱 Continuously learning and applying advanced machine learning techniques to solve real-world problems.
+
+#### Technologies & Tools
+
+- **Languages**: Python, C#, C++, Java
+- **Frameworks**: React, Django
+- **Tools**: Machine Learning, Data Science, AI Technologies
+
+#### Collaborate
+
+- 👯 I’m looking to collaborate on projects that push the boundaries of technology and contribute to meaningful advancements in healthcare and AI.
+
+#### Achievements
+
+- 🏆 Led projects that resulted in significant improvements in predictive accuracy and data analysis methodologies.
+- 📈 Contributed to cutting-edge research in brain-machine interfaces, developing algorithms that have the potential to revolutionize healthcare solutions.
+
+#### Connect With Me
+
+- 📫 How to reach me: [Insert your contact information]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: [Insert a fun fact about yourself]
+
+![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=furqan1pk&date_format=M%20j%5B%2C%20Y%5D)
+
 <!--
-**furqan1pk/furqan1pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Programming Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=furqan1pk&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<!-- 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=furqan1pk&show_icons=true&include_all_commits=true&count_private=true&theme=swift&hide=contribs" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan1pk&layout=compact&hide=css,html" />
+Further customization can include more personal projects, links to your portfolio, and any blogs or publications you've contributed to. Tailor this template to showcase your unique skills and experiences.
 -->
