@@ -6,12 +6,13 @@
   <a href="mailto:Furqaan.arshad@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-I'm Furqan, a Data Scientist and XR Developer passionate about leveraging machine learning, AI, and immersive technologies to create impactful solutions. With a robust foundation in computer science and a Master's degree from the University of California Davis, I specialize in brain-machine interfaces, healthcare innovations, and cutting-edge AR/VR applications.
+Furqan Arshad is a data scientist with expertise in neuroscience, medical signal processing, AR/VR, and embedded systems. He has a track record of innovation and extensive experience in the design and development of cutting-edge technologies, as well as leading multidisciplinary teams of data scientists and software engineers.
 
-#### Exploring Intersections
+He is currently working at the University of California, Davis, where he leverages his expertise to innovate in the field of brain-machine interfaces and wearables. Previously, he worked at META Innovation Lab, where he contributed to augmented and virtual reality projects and led pioneering efforts in early migraine prediction using wearable time series sensor data.
 
-- 🔭 I’m currently advancing brain-machine interface technologies and developing XR solutions that bridge the gap between data science and immersive experiences.
-- 🌱 Continuously exploring the synergy between AI and XR to innovate within healthcare, education, and beyond.
+He holds a Master’s degree in Computer Science from UC Davis, focusing on biological decoding and neural interfaces. His research and professional contributions have been recognized with publications and industry accolades.
+
+Furqan is currently seeking full-time roles in Data Science or Software Engineering where he can apply his skills and contribute to innovative projects.
 
 #### Technologies & Tools
 
