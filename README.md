@@ -6,13 +6,13 @@
   <a href="mailto:Furqaan.arshad@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-Furqan Arshad is a data scientist with expertise in neuroscience, medical signal processing, AR/VR, and embedded systems. He has a track record of innovation and extensive experience in the design and development of cutting-edge technologies, as well as leading multidisciplinary teams of data scientists and software engineers.
+I’m Furqan, a data scientist with expertise in neuroscience, medical signal processing, AR/VR, and embedded systems. I have a track record of innovation and extensive experience in designing and developing cutting-edge technologies, as well as leading multidisciplinary teams of data scientists and software engineers.
 
-He is currently working at the University of California, Davis, where he leverages his expertise to innovate in the field of brain-machine interfaces and wearables. Previously, he worked at META Innovation Lab, where he contributed to augmented and virtual reality projects and led pioneering efforts in early migraine prediction using wearable time series sensor data.
+Currently, I’m working at the University of California, Davis, where I leverage my expertise to innovate in brain-machine interfaces and wearables. Previously, I worked at META Innovation Lab, contributing to AR/VR projects and pioneering early migraine prediction using wearable time series sensor data.
 
-He holds a Master’s degree in Computer Science from UC Davis, focusing on biological decoding and neural interfaces. His research and professional contributions have been recognized with publications and industry accolades.
+I hold a Master’s degree in Computer Science from UC Davis, focusing on biological decoding and neural interfaces. My research and professional contributions have been recognized with publications and industry accolades.
 
-Furqan is currently seeking full-time roles in Data Science or Software Engineering where he can apply his skills and contribute to innovative projects.
+I’m seeking full-time roles in Data Science or Software Engineering where I can apply my skills and contribute to innovative projects. I’m also open to collaborations on exciting projects.
 
 #### Technologies & Tools
 
