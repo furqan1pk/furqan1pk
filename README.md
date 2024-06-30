@@ -2,9 +2,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/furqaanarshad/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://furqaanarshad.wixsite.com/furqan"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=Wix&logoColor=white"/></a>
+  <a href="https://furqan1pk.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=Wix&logoColor=white"/></a>
   <a href="mailto:Furqaan.arshad@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shotsbyfurqan"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 I'm Furqan, a Data Scientist and XR Developer passionate about leveraging machine learning, AI, and immersive technologies to create impactful solutions. With a robust foundation in computer science and a Master's degree from the University of California Davis, I specialize in brain-machine interfaces, healthcare innovations, and cutting-edge AR/VR applications.
@@ -34,6 +33,5 @@ I'm Furqan, a Data Scientist and XR Developer passionate about leveraging machin
 
 - 📫 How to reach me: Furqaan.arshad@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also a portrait photographer. [Instagram: shotsbyfurqan](https://www.instagram.com/shotsbyfurqan)
-- 🌍 Portfolio: [furqaanarshad.wixsite.com/furqan](https://furqaanarshad.wixsite.com/furqan)
-  
+- ⚡ Fun fact: I'm also a portrait photographer.
+- 🌍 Portfolio: [furqan1pk.github.io](https://furqan1pk.github.io/)
